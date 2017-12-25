@@ -1,0 +1,487 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<title>Auto Towing</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<script src="/cdn-cgi/apps/head/3ts2ksMwXvKRuG480KNifJ2_JNM.js"></script><link rel="alternate" type="application/rss+xml" title="Auto Towing &raquo; Feed" href="https://ld-wp.template-help.com/wordpress_58528/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Auto Towing &raquo; Comments Feed" href="https://ld-wp.template-help.com/wordpress_58528/comments/feed/" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="alternate" type="application/rss+xml" title="Auto Towing &raquo; Home Comments Feed" href="https://ld-wp.template-help.com/wordpress_58528/home/feed/" />
+<link rel="pingback" href="https://ld-wp.template-help.com/wordpress_58528/xmlrpc.php" />
+        <script type="text/javascript">
+            window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/ld-wp.template-help.com\/wordpress_58528\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.13"}};
+            !function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;return g&&g.fillText?(g.textBaseline="top",g.font="600 32px Arial","flag"===a?(g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3):"diversity"===a?(g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e):("simple"===a?g.fillText(h(55357,56835),0,0):g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+        </script>
+        <style type="text/css">
+img.wp-smiley,
+img.emoji {
+    display: inline !important;
+    border: none !important;
+    box-shadow: none !important;
+    height: 1em !important;
+    width: 1em !important;
+    margin: 0 .07em !important;
+    vertical-align: -0.1em !important;
+    background: none !important;
+    padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='cherry-blog-style-css'  href='https://ld-wp.template-help.com/wordpress_58528/wp-content/plugins/cherry-blog-layouts/public/assets/css/style.css?ver=1.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='cherry-portfolio-css'  href='https://ld-wp.template-help.com/wordpress_58528/wp-content/plugins/cherry-portfolio/public/assets/css/style.css?ver=1.0.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='cherry-social-flaticon-css'  href='https://ld-wp.template-help.com/wordpress_58528/wp-content/plugins/cherry-social/public/assets/fonts/flaticon.min.css?ver=1.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='cherry-social-css'  href='https://ld-wp.template-help.com/wordpress_58528/wp-content/plugins/cherry-social/public/assets/css/public.css?ver=1.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='cherry-testimonials-css'  href='https://ld-wp.template-help.com/wordpress_58528/wp-content/plugins/cherry-testimonials/public/assets/css/style.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://ld-wp.template-help.com/wordpress_58528/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css?ver=4.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='swiper-css'  href='https://ld-wp.template-help.com/wordpress_58528/wp-content/plugins/cherry-shortcodes/assets/css/swiper.css?ver=1.0.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='https://ld-wp.template-help.com/wordpress_58528/wp-content/themes/cherryframework4/lib/assets/css/magnific-popup.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cherry-shortcodes-all-css'  href='https://ld-wp.template-help.com/wordpress_58528/wp-content/plugins/cherry-shortcodes/assets/css/shortcodes.css?ver=1.0.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='theme58528-grid-base-css'  href='https://ld-wp.template-help.com/wordpress_58528/wp-content/themes/cherryframework4/assets/css/grid-base.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='theme58528-grid-responsive-css'  href='https://ld-wp.template-help.com/wordpress_58528/wp-content/themes/cherryframework4/assets/css/grid-responsive.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='https://ld-wp.template-help.com/wordpress_58528/wp-content/themes/cherryframework4/lib/assets/css/slick.css?ver=1.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='theme58528-main-css'  href='https://ld-wp.template-help.com/wordpress_58528/wp-content/themes/theme58528/assets/css/main.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='theme58528-main-responsive-css'  href='https://ld-wp.template-help.com/wordpress_58528/wp-content/themes/theme58528/assets/css/main-responsive.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cherryframework4-add-ons-css'  href='https://ld-wp.template-help.com/wordpress_58528/wp-content/themes/cherryframework4/lib/assets/css/add-ons.css?ver=4.0.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='theme58528-style-css'  href='https://ld-wp.template-help.com/wordpress_58528/wp-content/themes/theme58528/style.css?ver=1.0.0' type='text/css' media='all' />
+<style id='theme58528-style-inline-css' type='text/css'>
+body {color:#6a6d6f;font:15px/26px Raleway, sans-serif;}body{background-color:#FFFFFF;background-repeat:repeat;background-position:left;background-attachment:fixed;background-clip:padding-box;background-size:cover;background-origin:padding-box;background-image:none;}input[type="text"],input[type="search"],input[type="password"],input[type="email"],input[type="tel"],input[type="email"],input[type="url"] {color:#6a6d6f;font:15px/20px Raleway, sans-serif;}h1, .h1 {color:#272d33;font:900 83px/88px Raleway, sans-serif;}h2, .h2 {letter-spacing:0;color:#272d33;font:900 55px/58px Raleway, sans-serif;}h3, .h3 {letter-spacing:0;color:#272d33;font:500 55px/68px Raleway, sans-serif;}h4, .h4 {letter-spacing:-0.8px;color:#c9c9c9;font:700 40px/43px Raleway, sans-serif;}h5, .h5 {letter-spacing:0;color:#fc5a0a;font:800 29px/32px Raleway, sans-serif;}h6, .h6 {letter-spacing:0;color:#fc5a0a;font:800 19px/33px Raleway, sans-serif;}.site-link {color:#fc5a0a;font:900 90px/99px Raleway, sans-serif;}.footer-logo-link {letter-spacing:-0.68px;color:#fc5a0a;font:900 25px/30px Raleway, sans-serif;}.site-header{background-color:#ffffff;background-repeat:repeat;background-position:left;background-attachment:fixed;background-clip:padding-box;background-size:cover;background-origin:padding-box;background-image:none;}.site-content{background-color:#ffffff;background-repeat:repeat;background-position:left;background-attachment:fixed;background-clip:padding-box;background-size:cover;background-origin:padding-box;background-image:none;}.site-footer {color:#76828f;font:14px/17px Raleway, sans-serif;}.site-footer{background-color:#272d33;background-repeat:repeat;background-position:left;background-attachment:fixed;background-clip:padding-box;background-size:cover;background-origin:padding-box;background-image:none;}a {color: #fc5a0a;}a:hover {color: #272d33;}.menu-primary a {color:#87929d;font:800 19px/23px Raleway, sans-serif;}.menu-secondary a {color:#76828f;font:500 14px/17px Raleway, sans-serif;}.cherry-mega-menu-sub-item > a {color: #6a6d6f;}.cherry-mega-menu-sub-item > a:hover {color: #fc5a0a;}.cherry-mega-menu-sub .sub-column-title > a {color: #272d33;}.cherry-breadcrumbs {background-color: rgb(240,240,240);}.cherry-breadcrumbs_item_link,.cherry-breadcrumbs_item_target,.cherry-breadcrumbs_browse,.cherry-breadcrumbs_item_sep {color:#76828f;font:500 14px/18px Raleway, sans-serif;}.post-gallery_prev,.post-gallery_next {background-color: #fc5a0a;color: #000000;}.post-gallery_prev:hover,.post-gallery_next:hover {background-color: #272d33;color: #ffffff;}.post-gallery_item_caption {background-color: #272d33;color: #ffffff;}.post-gallery_paging_item {background-color: #272d33;}.slick-active > .post-gallery_paging_item,.post-gallery_paging_item:hover {background-color: #fc5a0a;}.cherry-list-numbered-circle > li, .cherry-list-numbered-slash > li, .cherry-list-icons > li {color: rgb(51,51,51);}.cherry-list-numbered-circle > li::before {background-color: #fc5a0a;}.cherry-list-numbered-circle > li:hover::before {background-color: rgb(51,51,51);}.cherry-list-numbered-circle > li:hover {color: #fc5a0a;}.cherry-list-simple > li {color: #fc5a0a;}.cherry-list-simple > li::before {color: rgb(221,221,221);}.cherry-list-simple > li:hover {color: rgb(51,51,51);}.cherry-list-simple > li:hover::before {color: #fc5a0a;}.cherry-list-numbered-slash > li::before {color: #fc5a0a;}.cherry-list-numbered-slash > li:hover {color: #fc5a0a;}.cherry-list-numbered-slash > li:hover::before {color: rgb(51,51,51);}.cherry-list-icons > li {color: rgb(51,51,51);}.cherry-list-icons > li:hover {color: #fc5a0a;}.cherry-list-icons > li i {color: rgb(221,221,221);}.cherry-list-icons > li:hover i {color: rgb(51,51,51);}.cherry-hr-primary{background-color: #fc5a0a;}.cherry-hr-gray-lighter{background-color: rgb(221,221,221);}.cherry-hr-gray-dark{background-color: rgb(51,51,51);}.cherry-drop-cap:first-letter {color: #fc5a0a;}.cherry-drop-cap-bg:first-letter {background-color: #fc5a0a}.cherry-drop-cap-bg-grey:first-letter {background-color: rgb(167,170,172);}.cherry-blockquote, .cherry-blockquote:before{color: #fc5a0a;}.cherry-highlight {background-color: #fc5a0a;}.cherry-highlight-grey {background-color: rgb(221,221,221);}.cherry-btn-transparent:hover{color: #555555;}.cherry-tabs-nav span {color: #272d33;}.cherry-tabs-nav span.cherry-tabs-current {color: #fc5a0a;border-bottom: 2px solid rgb(223,223,223);}.cherry-post-meta .cherry-post-date {color: #fc5a0a;}.portfolio-wrap .portfolio-container .portfolio-pagination ul.page-link li a {color: rgb(51,51,51);}.portfolio-wrap .portfolio-container .portfolio-pagination .page-nav a {color: rgb(51,51,51);}.text-muted {color: rgb(119,119,119);}.help-block {color: rgb(157,160,162);}legend {color: rgb(34,34,34);font-size: 23px;border-bottom: 1px solid rgb(223,223,223);}.cherry-highlight-grey {color: rgb(51,51,51);}abbr[title],abbr[data-original-title] {border-bottom: 1px dotted rgb(51,51,51);}output {color: #555555;font-size: 15px;line-height: 26px;}small, .small {color: rgb(51,51,51);}small, .small {font-size: 13px;}.form-control[disabled], .form-control[readonly], .form-control fieldset[disabled] {background-color: rgb(221,221,221);}.form-control {color: #555555;font-size: 15px;line-height: 26px;}.blockquote-reverse, blockquote.pull-right {border-right: 5px solid rgb(221,221,221);}.page-header {border-bottom: 1px solid rgb(221,221,221);}blockquote {border-left: 5px solid rgb(221,221,221);font-size: 18px;}hr {border-top: 1px solid rgb(221,221,221);}.close,.close:hover,.close:focus {color: #fcf8e3;font-size: 23px;}.lead {font-size: 17px;}.table .table {background-color: #6a6d6f;}.table > thead > tr > th,.table > thead > tr > td,.table > tbody > tr > th,.table > tbody > tr > td,.table > tfoot > tr > th,.table > tfoot > tr > td {line-height: 26px;}dt,dd {line-height: 26px;}blockquote footer,blockquote small,blockquote .small {line-height: 26px;}address {line-height: 26px;}.cherry-nav-divider {background-color: rgb(221,221,221);}.cherry-box .box-primary {background-color: #fc5a0a;color: #000000;}.cherry-box .box-secondary {background-color: #272d33;color: #ffffff;}.cherry-box .box-gray {background-color: #555555;}.cherry-box .box-primary-border {border-color: #fc5a0a;}.cherry-box .box-secondary-border {border-color: #272d33;}.cherry-box .box-gray-border {border-color: #555555;}.text-primary {color:#fc5a0a;}.text-primary:hover {color:rgb(227,65,0);}.text-success {color:#dff0d8;}.text-success:hover {color:rgb(198,215,191);}.text-info {color:#d9edf7;}.text-info:hover {color:rgb(192,212,222);}.text-warning {color:#fcf8e3;}.text-warning:hover {color:rgb(227,223,202);}.text-danger {color:#f2dede;}.text-danger:hover {color:rgb(217,197,197);}.bg-primary {background-color:#fc5a0a;}.bg-primary:hover {background-color:rgb(227,65,0);}.bg-success {background-color:#dff0d8;}.bg-success:hover {background-color:rgb(198,215,191);}.bg-info {background-color:#d9edf7;}.bg-info:hover {background-color:rgb(192,212,222);}.bg-warning {background-color:#fcf8e3;}.bg-warning:hover {background-color:rgb(227,223,202);}.bg-danger {background-color:#f2dede;}.bg-danger:hover {background-color:rgb(217,197,197);}@media ( min-width:992px ) {.site-header.boxed { max-width: 1200px }.site-content.boxed { max-width: 1310px }.site-footer.boxed { max-width: 1200px }.site-header.boxed .container {width: auto;max-width: 1200px}.site-content.boxed .container{width: auto;max-width: 1200px}.site-footer.boxed .container {width: auto;max-width: 1200px}.site-header.wide .container,.site-content.wide .container,.site-footer.wide .container {width: auto;max-width: 1200px}}@media ( max-width:767px ) {.menu-primary_trigger {display: block;}.simple-menu.menu-items {display: none !important;}.simple-menu.menu-items[aria-expanded="true"] {display: block !important;}.simple-menu.menu-items {padding: 10px;background: #454545;}.simple-menu .sub-menu {position: static;float: none;visibility: visible;opacity: 1;padding: 0 0 0 20px;background: none;}.simple-menu .sub-menu li {float: none;}.simple-menu .sub-menu a {width: 100%;color: #87929d;}.simple-menu > ul > li {float: none;display: block;margin: 0;padding: 0 0 3px 0;}}@media ( min-width:767px ) {.simple-menu li:hover > ul,.simple-menu li.focus > ul,.simple-menu li.menu-hover > ul {opacity: 1;visibility: visible;overflow: visible;}}.isStick{-webkit-box-shadow: 4px 4px 7px 0 rgba(0, 0, 0, 0.24);-moz-box-shadow:4px 4px 7px 0 rgba(0, 0, 0, 0.24);box-shadow:4px 4px 7px 0 rgba(0, 0, 0, 0.24);}.isStick#menu-primary{background: #272d33;}.cherry-breadcrumbs{background: #ffffff;}.cherry-breadcrumbs_item_target{color: #fc5a0a;}.cherry-breadcrumbs_item_link:hover{color: #fc5a0a;}.motopress-list-type-icon .fa:before{font-size: 55px;}.info-box h5{color: #272d33;font-weight: 700;font-size: 24px;}.info-box .fa-mobile-phone:before{font-size: 63px;}.static-header-menu, .static-header-menu:before{background: #272d33;}.box-shadow{-webkit-box-shadow: 4px 4px 7px 0 rgba(0, 0, 0, 0.24);-moz-box-shadow:4px 4px 7px 0 rgba(0, 0, 0, 0.24);box-shadow:4px 4px 7px 0 rgba(0, 0, 0, 0.24);}.color-default{color: #6a6d6f;}.color-default a{color: #6a6d6f;}.color-default a:hover{color: #fc5a0a;}.color-white{color: #fff;}.color-primary{color: #fc5a0a;}.color-secondary{color: #272d33;}.bg-primary{background: #fc5a0a;}.bg-primary:hover{background:rgb(255,116,36);}.bg-secondary{background: #272d33;}.bg-secondary:hover{background:rgb(65,71,77);}.cherry-list.font-icon ul li a{color: #fc5a0a;background: transparent;}.cherry-list.font-icon ul li .fa:before{color: #272d33;}.cherry-list.font-icon ul li a:hover{color: #fff;background: #fc5a0a;}.cherry-list.font-icon ul li:hover .fa:before{color: #fff;}.banner_title strong{font-weight: 900;}.rating-wrap .rating .stars{color: #fc5a0a;}.rating-wrap .rating {color: #e0dede;}cite.author{letter-spacing:0;color:#fc5a0a;font:800 29px/32px Raleway, sans-serif;;text-transform: uppercase;}cite.author {color: #272d33;}.testimonials-item-wrap{background: #fff;-webkit-box-shadow: 4px 4px 7px 0 rgba(0, 0, 0, 0.24);-moz-box-shadow:4px 4px 7px 0 rgba(0, 0, 0, 0.24);box-shadow:4px 4px 7px 0 rgba(0, 0, 0, 0.24);}.testimonials-item-wrap .author{line-height: 37px;}#footer .widget-title{letter-spacing:0;color:#fc5a0a;font:800 19px/33px Raleway, sans-serif;;color: #fff;}#footer p, #footer a,body .google-map-container .gm-style .gm-style-iw{color:#6a6d6f;font:15px/26px Raleway, sans-serif;;font-size: 14px;;font-weight: 500;color: #76828f;text-transform: uppercase;}#footer .contact-info a{text-transform: none;}#footer .fa-envelope a{color: #fc5a0a;}#footer a:hover{color: #fff;}#footer .current_page_item a{color: #fff;}#footer .current_page_item a:hover{color: #fc5a0a;}.contact-info [class*='fa-']:before{font-size: 20px;color: #fff;}body .cherry-follow_list .cherry-follow_item i:before{font-size: 20px;}.cherry-follow_link:hover{opacity: 1 !important;}.footer-site-link span{letter-spacing:-0.68px;color:#fc5a0a;font:900 25px/30px Raleway, sans-serif;}#footer .footer-site-link{font-size: 15px;color: #fff;}/* Navigation (Menu) */#static-area-header-bottom{-webkit-box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.24);-moz-box-shadow:0 5px 5px 0 rgba(0, 0, 0, 0.24);box-shadow:0 5px 5px 0 rgba(0, 0, 0, 0.24);}#menu-primary > .menu-items > .menu-item > a {color: #87929d;}#menu-primary > .menu-items > .menu-item.current-menu-item > a,#menu-primary > .menu-items > .menu-item.mega-toggle-on > a,#menu-primary > .menu-items > .menu-item.menu-hover > a,#menu-primary > .menu-items > .menu-item > a:hover {color: #fff;}#menu-primary > .menu-items > .menu-item:before{background: #fc5a0a;}#menu-primary .sub-menu,#menu-primary .cherry-mega-menu-sub,#menu-primary .cherry-mega-menu-sub.simple-sub {background: #e7e7e6;-webkit-box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.24);-moz-box-shadow:0 5px 5px 0 rgba(0, 0, 0, 0.24);box-shadow:0 5px 5px 0 rgba(0, 0, 0, 0.24);}#menu-primary .sub-menu li a,#menu-primary .cherry-mega-menu-sub li a,#menu-primary .cherry-mega-menu-sub.simple-sub li a {font-size: 14px;;color: #87929d;}#menu-primary .cherry-mega-menu-sub li a.cherry-btn:hover{color: #fff;z-index:1;}#menu-primary .sub-menu li a:hover,#menu-primary .cherry-mega-menu-sub li a:hover,#menu-primary .cherry-mega-menu-sub.simple-sub li a:hover {color: #fc5a0a;}#menu-primary .sub-menu .menu-item > a,#menu-primary .cherry-mega-menu-sub > a {font-size: 14px;;color: #87929d;}#menu-primary .sub-menu .menu-item > a:hover,#menu-primary .cherry-mega-menu-sub > a:hover {color: #fc5a0a;}#menu-primary .cherry-mega-menu-sub .megamenu-post-wrap .btn {color: #272d33;background: #fc5a0a;}#menu-primary .cherry-mega-menu-sub .megamenu-post-wrap .btn:hover {color: #fff;background: #272d33;}#menu-primary a {color: #fc5a0a;}#menu-primary a:hover {color: #272d33;}#menu-secondary .menu-item > a {color: #fc5a0a;}#menu-secondary .menu-item > a:hover,#menu-secondary .menu-item.current-menu-item > a {color: #272d33;}#menu-primary > #menu-primary-items .cherry-mega-menu-sub.mega-sub .mega-block-title{color: #272d33;}/*mega menu mobile */#menu-primary .cherry-mega-menu-mobile-trigger,#menu-primary .cherry-mega-menu-mobile-close {color: #fff;background: #fc5a0a;}/* simple menu mobile */@media ( max-width:767px ) {#menu-primary .menu-primary_trigger {text-align:left;border:none;width:100%;color: #272d33;background: #fc5a0a;}#menu-primary #menu-primary-items > .menu-item {float:none;width:auto !important;margin:5px 0 0;}#menu-primary > #menu-primary-items > .menu-item > a {padding:10;}#menu-primary > #menu-primary-items .sub-menu .sub-menu {padding:0;margin:0 0 0 20px;}}/* Logo */.site-link:hover {color:#fc5a0a;}/* Pagination *//*Blog posts list pagination*/.navigation.pagination .nav-links .page-numbers {color: #fff;background: #272d33;}.navigation.pagination .nav-links .page-numbers.dots:hover {color: #fff;background: #272d33;}.navigation.pagination .nav-links .page-numbers:hover,.navigation.pagination .nav-links .page-numbers.current {color: #fff;background: #fc5a0a;}/*Blog single post prev/next navigation*/.paging-navigation .nav-links a {color: #fff;background: #272d33;}.paging-navigation .nav-links a:hover {color: #fff;background: #fc5a0a;}/*Portfolio list pagination*/.portfolio-wrap .portfolio-container .portfolio-pagination ul.page-link li a,.portfolio-wrap .portfolio-container .portfolio-pagination .page-nav a {color: #fff;background: #272d33;}.portfolio-wrap .portfolio-container .portfolio-pagination ul.page-link li a:hover,.portfolio-wrap .portfolio-container .portfolio-pagination ul.page-link li.active a,.portfolio-wrap .portfolio-container .portfolio-pagination .page-nav a:hover {color: #fff;background: #fc5a0a;}/* Shortcodes *//* button */.cherry-btn ,.entry-permalink a{background: #ffffff;}.cherry-btn.cherry-btn-success{background: #2FCC08;}.cherry-btn.cherry-btn-success:hover{background: #249B06;}a.cherry-btn.cherry-btn-primary ,.entry-permalink a{color: #272d33;background: #ffffff;border: 3px solid #c6ccd1;}a.cherry-btn.cherry-btn-primary:hover ,.entry-permalink a:hover{color: #ffffff;border: 3px solid #c6ccd1;}a.cherry-btn.cherry-btn-primary:hover:after ,.entry-permalink a:hover:after{background: #fc5a0a;}.cherry-btn.cherry-btn-default{background: #6a6d6f;color: #fff;border: 3px solid #c6ccd1;}.cherry-btn.cherry-btn-default:hover{background: #272d33;color: #fff;border: 3px solid #c6ccd1;}.cherry-btn.cherry-btn-primary-light{background: rgb(255,93,13);color: #fff;border: 3px solid #c6ccd1;}.cherry-btn.cherry-btn-primary-light:hover{background: rgb(255,141,61);color: #fff;border: 3px solid #c6ccd1;}.cherry-btn.cherry-btn-gray{background: #555555;color: #fff;border: 3px solid #c6ccd1;}.cherry-btn.cherry-btn-gray:hover{background: rgb(136,136,136);color: #fff;border: 3px solid #c6ccd1;}/* swiper-carousel */.swiper-container .swiper-button-next,.swiper-container .swiper-button-prev {color: #fff;background: #fc5a0a;}.swiper-container .swiper-button-next:hover,.swiper-container .swiper-button-prev:hover {color: #fff;background: #272d33;}.swiper-container .swiper-pagination .swiper-pagination-bullet-active {background: #fc5a0a;}.swiper-container .swiper-pagination .swiper-pagination-bullet:hover {background: #fc5a0a;opacity: 1;}/* cherry icon */.cherry-icon {color: #fc5a0a;}/* cherry team*/.team-listing .team-photo:before {background: #fc5a0a;}.team-about.team-wrap .team-content{background: #fff;}.team-about.team-wrap .team-wrap-content{-webkit-box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.24);-moz-box-shadow:0 5px 5px 0 rgba(0, 0, 0, 0.24);box-shadow:0 5px 5px 0 rgba(0, 0, 0, 0.24);}.team-about.team-wrap .team-listing_name{font-weight: 600;}/* Portfolio */.portfolio-wrap .filter li, .taxonomy-filter li a{letter-spacing:0;color:#fc5a0a;font:800 19px/33px Raleway, sans-serif;;font-weight: 600;}.taxonomy-filter li a{color: #272d33;text-transform: uppercase;}ul.order-filter > li ul{-webkit-box-shadow: 4px 4px 7px 0 rgba(0, 0, 0, 0.24);-moz-box-shadow:4px 4px 7px 0 rgba(0, 0, 0, 0.24);box-shadow:4px 4px 7px 0 rgba(0, 0, 0, 0.24);}.portfolio-wrap .filter li a:hover,.portfolio-wrap .filter li.active a,.taxonomy-filter li a:hover,.taxonomy-filter li.active a,.portfolio-wrap .order-filter > li:hover{color: #fc5a0a;}.portfolio-wrap .order-filter li ul li{color: #6a6d6f;}.portfolio-wrap .order-filter li ul li:hover{color: #fc5a0a;text-decoration: none;}.portfolio-wrap .portfolio-container .portfolio-list .portfolio-item .item-content:before{background: #272d33;opacity: .7;}.portfolio-wrap .portfolio-container .portfolio-item .portfolio-grid .rollover-content:before {background: #272d33;}.portfolio-wrap .portfolio-container .portfolio-list .portfolio-item .item-content h6 a{color: #fff;}.portfolio-wrap .portfolio-container .portfolio-list .portfolio-item .item-content h6 a:hover{color: #fc5a0a;}/* grid standart */div.portfolio-wrap div.portfolio-item .inner-wrap .links-container .item-link{color: #272d33;}div.portfolio-wrap div.portfolio-item .inner-wrap .links-container .item-link:hover{color: #272d33;border-color: #272d33;}/* grid custom */div.portfolio-wrap div.portfolio-item .inner-wrap.portfolio-grid .links-container .item-link{color: rgb(255,255,255);}div.portfolio-wrap div.portfolio-item .inner-wrap.portfolio-grid .links-container .item-link:hover{color: rgb(255,255,255);border-color: rgb(255,255,255);}/* justifiedstandart */.portfolio-wrap .portfolio-container .portfolio-item.justified-layout-item .rollover-content h3 a:hover {color: #fc5a0a;}/* justified custom */div.portfolio-wrap div.portfolio-item .inner-wrap.portfolio-justified .links-container .item-link{color: rgb(255,255,255);}div.portfolio-wrap div.portfolio-item .inner-wrap.portfolio-justified .links-container .item-link:hover{color: #272d33;border-color: rgb(255,255,255);}.portfolio-wrap .portfolio-container .portfolio-item .custom-links .zoomlink {background: #272d33;border: 4px solid #fff !important;}.portfolio-wrap .portfolio-container .portfolio-item .custom-links .zoomlink:before {color: #fff;}.portfolio-wrap .portfolio-container .portfolio-item .custom-links .zoomlink:hover {border: 4px solid #fff !important;}.portfolio-wrap .portfolio-container .portfolio-item .custom-links .zoomlink:hover:before {color: #272d33;}.portfolio-wrap .portfolio-container .portfolio-item .custom-links .zoomlink:hover:after {background: #fff;}.portfolio-wrap .portfolio-container .portfolio-item .custom-links .permalink:hover {color: #272d33;background: #ffffff;border: 4px solid #c6ccd1;}.portfolio-wrap .portfolio-container .portfolio-ajax-button .load-more-button a {color: #272d33;background: #ffffff;border: 3px solid #c6ccd1;}.portfolio-wrap .portfolio-container .portfolio-ajax-button .load-more-button a:hover {color: #ffffff;border: 3px solid #c6ccd1;}.portfolio-wrap .portfolio-container .portfolio-ajax-button .load-more-button a:hover:after {background: #fc5a0a;}.cherry-spinner-double-bounce .cherry-double-bounce1, .cherry-spinner-double-bounce .cherry-double-bounce2 {background-color: #fc5a0a;}body.single-portfolio article.type-portfolio .cherry-portfolio-single-post .post-meta-container .post-title{color: #272d33;}body.single-portfolio article.type-portfolio .cherry-portfolio-single-post .post-meta-container i {color: #272d33;}body.single-portfolio article.type-portfolio .cherry-portfolio-single-post .post-meta-container .post-date {color: #6a6d6f;}body.single-portfolio article.type-portfolio .cherry-portfolio-single-post .post-meta-container .post-author a {color: #6a6d6f;}body.single-portfolio article.type-portfolio .cherry-portfolio-single-post .post-meta-container .post-author {color: #6a6d6f;}body.single-portfolio article.type-portfolio .cherry-portfolio-single-post .post-meta-container {color: #6a6d6f;}body.single-portfolio article.type-portfolio .cherry-portfolio-single-post .post-meta-container .post-author a:hover {color: #fc5a0a;}body.single-portfolio article.type-portfolio .cherry-portfolio-single-post .post-meta-container .post-comments-link a{color: #6a6d6f;}body.single-portfolio article.type-portfolio .cherry-portfolio-single-post .post-meta-container .post-comments-link a:hover {color: #fc5a0a;}body.single-portfolio article.type-portfolio .cherry-portfolio-single-post .post-taxonomy-list span {color: #272d33;}body.single-portfolio article.type-portfolio .cherry-portfolio-single-post p{color: #6a6d6f;}/* Blog */.entry-meta .posted-on:before,.entry-meta .author:before,.entry-meta .comments-link-on:before {color: #272d33;}body .post-gallery_prev, body .post-gallery_next {color: #fff;}/* Comments */.comments-area .comment .comment-meta .fn {color: #fc5a0a;letter-spacing:0;color:#fc5a0a;font:800 19px/33px Raleway, sans-serif;;}.comments-area .reply .comment-reply-link{letter-spacing:0;color:#fc5a0a;font:800 19px/33px Raleway, sans-serif;;}.comments-area .reply .comment-reply-link:hover{color: #272d33;}.comments-area .comment .comment-meta .comment-metadata:before {color: #272d33;}.comment-respond form input,.comment-respond form textarea {border: 3px solid #c6ccd1;}.comment-respond form .form-submit .submit {color: #272d33;background: #ffffff;border: 3px solid #c6ccd1;}.comment-respond form .form-submit .submit:hover {color: #ffffff;background: #fc5a0a;border: 3px solid #c6ccd1;}/* Contact form */.wpcf7 form input[type="text"],.wpcf7 form input[type="email"],.wpcf7 form input[type="tel"],.wpcf7 form textarea {border: 3px solid #c6ccd1;color: #6a6d6f;}.wpcf7 .submit-wrap input {color: #272d33;background: #ffffff;border: 3px solid #c6ccd1;}.wpcf7 .submit-wrap input:hover {color: #ffffff;background: #fc5a0a;border: 3px solid #c6ccd1;}.wpcf7 .submit-wrap input[type="reset"] {color: #272d33;background: #ffffff;border: 3px solid #c6ccd1;}.wpcf7 .submit-wrap input[type="reset"]:hover {color: #ffffff;background: #fc5a0a;border: 3px solid #c6ccd1;}.wpcf7 .submit-wrap img.ajax-loader {border-color: transparent transparent #fc5a0a #fc5a0a;}/* Widgets */.widget > ul > li {}.widget > ul > li:before {color:#272d33;}.widget_recent_comments li.recentcomments {color: #6a6d6f;}.widget_recent_comments li.recentcomments .comment-author-link {color: #fc5a0a;}/* Search */.search-form .search-field {border: 3px solid #c6ccd1;color: #272d33;}.search-form .search-submit {color:#fff;background: #fc5a0a;}.search-form .search-submit:hover {background: #272d33;}/* Static */.static-social-follow .cherry-follow_list .cherry-follow_item .cherry-follow_link {color: #272d33;}.static-social-follow .cherry-follow_list .cherry-follow_item .cherry-follow_link:hover {color: #fff;}#static-area-header-top{background: #ffffff;}/* MotoPress Slider */.motoslider_wrapper .ms_pagination .ms_bullet {background: #fff;}.motoslider_wrapper .ms_pagination .ms_bullet:hover, .motoslider_wrapper .ms_pagination .ms_bullet.ms_active {background: #fc5a0a;}.motoslider_wrapper .ms_arrows a:before{color: #fff;}.motoslider_wrapper .ms_arrows a:hover:before{color: #fc5a0a;}/* Footert */body #footer .footer-logo-link {letter-spacing:-0.68px;color:#fc5a0a;font:900 25px/30px Raleway, sans-serif;;}body #footer .footer-logo-link:hover {color: #fc5a0a;}#footer .menu li a{color: #76828f;}#footer .menu li a:hover, #footer .menu li.current_page_item a{color: #fff;text-decoration: none;}#footer .menu li.current_page_item a:hover{color: #fc5a0a;}#footer .cherry-follow_title{color: #fff;margin-bottom: 10px;}/* Back to Top */#back-top a {color: #272d33;background: #ffffff;border: 3px solid #c6ccd1;}#back-top a:hover{border: 3px solid #c6ccd1;}#back-top a:hover:before{color: #ffffff;}#back-top a:hover:after{background: #fc5a0a;}/* Carousel */.carousel_1:before{background: #fc5a0a;color: rgb(255,255,255);}.carousel_1 + .swiper-button-next.outer:hover, .carousel_1 + .swiper-button-next + .swiper-button-prev.outer:hover{color: #fc5a0a;}.author-bio, .comment-body{-webkit-box-shadow: 4px 4px 7px 0 rgba(0, 0, 0, 0.24);-moz-box-shadow:4px 4px 7px 0 rgba(0, 0, 0, 0.24);box-shadow:4px 4px 7px 0 rgba(0, 0, 0, 0.24);}body.single-portfolio article.type-portfolio .cherry-portfolio-single-post .post-title{color: #fc5a0a;}.widget .widget-title {letter-spacing:0;color:#fc5a0a;font:800 19px/33px Raleway, sans-serif;;color: #272d33;}span.wpcf7-not-valid-tip{font-size: 0.8em;}.taxonomy-filter li a.active{text-decoration: none;color: #fc5a0a;}body .cherry-grid_item{background: #fff;}div.portfolio-wrap div.portfolio-item .inner-wrap .links-container .item-link{color: #fff;}div.portfolio-wrap div.portfolio-item .inner-wrap .links-container .item-link:hover{color: #fc5a0a;border: 2px solid #fc5a0a;}div.portfolio-wrap div.portfolio-item .inner-wrap .table-cell h3{color: #fff;}div.portfolio-wrap div.portfolio-item .inner-wrap .table-cell .post-date{color: #fff;}.grid-layout .grid-layout-item{margin-top: 62px;}#menu-primary > #menu-primary-items .cherry-mega-menu-sub.mega-sub > li:before{background: #d2d2d1;}#menu-primary > #menu-primary-items .cherry-btn{background: #fc5a0a;color: #fff;border: 3px solid #fc5a0a;}#menu-primary > #menu-primary-items .cherry-btn:hover{background: #fff;color: #6a6d6f;border: 3px solid #fc5a0a;}#menu-primary > #menu-primary-items .cherry-btn:hover:after{background: #fff;}@media (min-width: 992px) and (max-width: 1199px) {.cherry-with-sidebar [class*="banner-home"] .banner_title{letter-spacing:-0.8px;color:#c9c9c9;font:700 40px/43px Raleway, sans-serif;;color: #fff;}}@media (max-width: 1199px) {.site-link {font-size: 70px;}}@media (max-width: 767px) {.site-link {font-size: 60px;line-height: 69px;word-wrap: normal;-moz-hyphens: none;hyphens: none;}}
+</style>
+<link rel='stylesheet' id='cherry-google-fonts-css'  href='//fonts.googleapis.com/css?family=Raleway%3A800%2C500%2C900%2Cregular%2C700%7CAbril+Fatface%3Aregular&#038;subset=latin%2Clatin-ext&#038;ver=4.4.13' type='text/css' media='all' />
+<link rel='stylesheet' id='cherry-mega-menu-css'  href='https://ld-wp.template-help.com/wordpress_58528/wp-content/plugins/cherry-mega-menu/public/assets/css/style.css?ver=1.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='cherry-team-css'  href='https://ld-wp.template-help.com/wordpress_58528/wp-content/plugins/cherry-team/public/assets/css/style.css?ver=1.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='mpce-theme-css'  href='https://ld-wp.template-help.com/wordpress_58528/wp-content/plugins/motopress-content-editor/includes/css/theme.css?ver=1.6.7' type='text/css' media='all' />
+<script type='text/javascript' src='https://ld-wp.template-help.com/wordpress_58528/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='https://ld-wp.template-help.com/wordpress_58528/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel='https://api.w.org/' href='https://ld-wp.template-help.com/wordpress_58528/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ld-wp.template-help.com/wordpress_58528/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://ld-wp.template-help.com/wordpress_58528/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.13" />
+<link rel="canonical" href="https://ld-wp.template-help.com/wordpress_58528/" />
+<link rel='shortlink' href='https://ld-wp.template-help.com/wordpress_58528/' />
+    <script type="text/javascript">
+        MPSLCore = {
+            'path': "https://ld-wp.template-help.com/wordpress_58528/wp-content/plugins/motopress-slider/motoslider_core/",
+            'version': "1.1.8"
+        };
+    </script>
+<link type="image/x-icon" href="https://ld-wp.template-help.com/wordpress_58528/wp-content/uploads/2016/02/favicon_theme25923.ico" rel="shortcut icon"><link href="https://ld-wp.template-help.com/wordpress_58528/wp-content/uploads/2016/02/favicon_theme25923.ico" sizes="57x57" rel="apple-touch-icon-precomposed"><link href="https://ld-wp.template-help.com/wordpress_58528/wp-content/uploads/2016/02/favicon_theme25923.ico" sizes="72x72" rel="apple-touch-icon-precomposed"><link href="https://ld-wp.template-help.com/wordpress_58528/wp-content/uploads/2016/02/favicon_theme25923.ico" sizes="114x114" rel="apple-touch-icon-precomposed"><link href="https://ld-wp.template-help.com/wordpress_58528/wp-content/uploads/2016/02/favicon_theme25923.ico" sizes="144x144" rel="apple-touch-icon-precomposed"></head>
+<body class="home page page-id-5 page-template-default cherry-bottom-meta-disabled cherry-responsive cherry-no-sidebar cherry-navigation-arrow" dir="ltr">
+
+    
+    <div id="site-wrapper" class="hfeed site">
+
+        <header id="header" class="site-header wide" role="banner">
+        <div id="static-area-header-top" class="header-top static-area"><div class="container"><div class="row"><div class="col-xs-12 col-sm-12 col-md-7 col-lg-7 static-header-logo"><div class="site-branding"><h1 class="site-title image-logo"><a href="#" rel="home"><img src="logo.png" alt="Auto Towing"></a></h1> </div></div><div class="col-xs-12 col-sm-12 col-md-5 col-lg-5 static-header-sidebar"><div class="sidebar-header widget-area" role="complementary"><aside id="text-2" class="widget widget_text">          <div class="textwidget"><div class="info-box"><h5>yol yardım</h5>
+<h4>7/24</h4>
+<br>
+<h4 class="fa-mobile-phone">
+<a href="callto:#" style="font-size: 30px;
+">0530 181 18 74</a>
+<a href="callto:#" style="
+    font-size: 23px;
+">0533 301 79 90</a></h4>
+        </aside></div></div></div></div></div><div id="static-area-header-bottom" class="header-bottom static-area"><div class="container"><div class="row"><div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 static-header-menu">
+    <!-- Primary navigation -->
+    <nav class="menu-primary menu" role="navigation" id="menu-primary">
+
+        <label class="cherry-mega-menu-mobile-trigger" for="trigger-menu-primary-items">Menu</label><input class="cherry-mega-menu-mobile-trigger-box" id="trigger-menu-primary-items" type="checkbox"><ul id="menu-primary-items" class="menu-items cherry-mega-no-js cherry-mega-menu mega-menu-direction-horizontal total-columns-12" data-event="hover" data-effect="slide-bottom" data-direction="horizontal" data-mobile-trigger="767" data-parent-selector=".cherry-mega-menu"><li id="menu-item-988" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5 current_page_item menu-item-has-children menu-item-988 cherry-mega-menu-top-item item-submenu-position-fullwidth cherry-mega-menu-has-children item-type-megamenu item-align-top-left menu-item-standard" data-width-fullscreen="100%" data-width-desktop="100%" data-width-tablet="100%" data-hide-mobile="item-hide-mobile" data-sub-hr-position="fullwidth" data-sub-vr-position="vertical-parent" data-sub-type="megamenu"><a href="https://ld-wp.template-help.com/wordpress_58528/" data-title="Anasayfa">Anasayfa</a>
+        </li>
+<li id="menu-item-996" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-996 cherry-mega-menu-top-item item-submenu-position-fullwidth item-align-top-left menu-item-standard"><a href="https://ld-wp.template-help.com/wordpress_58528/about/" data-title="Hakkımızda">Hakkımızda</a></li>
+<li id="menu-item-994" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-994 cherry-mega-menu-top-item item-submenu-position-fullwidth item-align-top-left menu-item-standard"><a href="https://ld-wp.template-help.com/wordpress_58528/contacts/" data-title="İletişim">İletişim</a></li>
+</ul><label class="cherry-mega-menu-mobile-close" for="trigger-menu-primary-items">Close</label>
+    </nav>
+
+</div></div></div></div><div id="static-area-showcase-area" class="showcase-area static-area"><div class="container"><div class="row"><div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 static-moto-slider moto-slider"><style type="text/css">.mpsl-layer.title1 {
+    color: rgb(255, 255, 255);
+    font-size: 83px;
+    font-family: Raleway;
+    font-weight: 900;
+    line-height: 88px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.mpsl-layer.title2 {
+    color: rgb(255, 255, 255);
+    font-size: 55px;
+    font-family: Raleway;
+    font-weight: 500;
+    line-height: 68px;
+    text-transform: uppercase;
+}</style>
+<div class="motoslider_wrapper " id="motoslider_wrapper5a402f46f3640" >
+    <div data-motoslider style="height: 580px; max-height: 580px;"></div>
+    <div class="motoslider">
+        <div id="settings"  data-full-window-width="true" data-timer="true" data-timer-delay="7000" data-hover-timer="false" data-counter="false" data-slider-layout="auto" data-grid-width="1170" data-grid-height="580" data-timer-reverse="false" data-arrows-show="true" data-thumbnails-show="false" data-slideshow-timer-show="false" data-slideshow-ppb-show="false" data-controls-hide-on-leave="false" data-swipe="true" data-delay-init="0" data-scroll-init="false" data-start-slide="1" data-visible-from="" data-visible-till="" data-custom-class="">
+        </div>
+        <div id="slides">
+                            <div class="slide"  data-class="" data-id="" data-animation="msSlide" data-fade-animation="msSlide" data-duration="2000" data-easing="easeOutCirc">
+                    <div class="slide_bg" >
+                        <div  data-type="color" data-color="rgb(39, 45, 51)"></div><div  data-type="image" data-fit="cover" data-position="center center" data-repeat="no-repeat" data-src="https://ld-wp.template-help.com/wordpress_58528/wp-content/uploads/2016/02/slide01.jpg"></div>                    </div>
+                    <div class="layers">
+                                                                                            <div class="layer"  data-type="html" data-align-horizontal="center" data-align-vertical="middle" data-offset-x="0" data-offset-y="-71" data-animation="fadeInRight" data-timing-function="ease" data-duration="500" data-leave-animation="fadeOutLeft" data-leave-timing-function="ease" data-leave-duration="300" data-delay="100" data-class="title1 mpsl-layer mpsl-private-preset-1">FULLY EQUIPPED</div>
+                                                                                                    <div class="layer"  data-type="html" data-align-horizontal="center" data-align-vertical="middle" data-offset-x="0" data-offset-y="20" data-animation="fadeInRight" data-timing-function="ease" data-duration="500" data-leave-animation="fadeOutLeft" data-leave-timing-function="ease" data-leave-duration="500" data-delay="150" data-class="title2 mpsl-layer mpsl-private-preset-2">TO HANDLE ALL  ROADSIDE</div>
+                                                                                                    <div class="layer"  data-type="html" data-align-horizontal="center" data-align-vertical="middle" data-offset-x="0" data-offset-y="88" data-animation="fadeInRight" data-timing-function="ease" data-duration="500" data-leave-animation="fadeOutLeft" data-leave-timing-function="ease" data-leave-duration="400" data-delay="200" data-class="title2 mpsl-layer mpsl-private-preset-3">SITUATIONS</div>
+                                                    </div>
+                </div>
+                            <div class="slide"  data-class="" data-id="" data-animation="msSlide" data-fade-animation="msSlide" data-duration="2000" data-easing="easeOutCirc">
+                    <div class="slide_bg" >
+                        <div  data-type="color" data-color="rgb(39, 45, 51)"></div><div  data-type="image" data-fit="cover" data-position="center center" data-repeat="no-repeat" data-src="https://ld-wp.template-help.com/wordpress_58528/wp-content/uploads/2016/02/slide02.jpg"></div>                    </div>
+                    <div class="layers">
+                                                                                            <div class="layer"  data-type="html" data-align-horizontal="center" data-align-vertical="middle" data-offset-x="0" data-offset-y="-71" data-animation="fadeInRight" data-timing-function="ease" data-duration="500" data-leave-animation="fadeOutLeft" data-leave-timing-function="ease" data-leave-duration="500" data-delay="100" data-class="title1 mpsl-layer mpsl-private-preset-5">The leading towing</div>
+                                                                                                    <div class="layer"  data-type="html" data-align-horizontal="center" data-align-vertical="middle" data-offset-x="0" data-offset-y="20" data-animation="fadeInRight" data-timing-function="ease" data-duration="500" data-leave-animation="fadeOutLeft" data-leave-timing-function="ease" data-leave-duration="500" data-delay="150" data-class="title2 mpsl-layer mpsl-private-preset-6">and roadside service</div>
+                                                                                                    <div class="layer"  data-type="html" data-align-horizontal="center" data-align-vertical="middle" data-offset-x="0" data-offset-y="88" data-animation="fadeInRight" data-timing-function="ease" data-duration="500" data-leave-animation="fadeOutLeft" data-leave-timing-function="ease" data-leave-duration="400" data-delay="200" data-class="title2 mpsl-layer mpsl-private-preset-7">provider</div>
+                                                    </div>
+                </div>
+                            <div class="slide"  data-class="" data-id="" data-animation="msSlide" data-fade-animation="msSlide" data-duration="2000" data-easing="easeOutCirc">
+                    <div class="slide_bg" >
+                        <div  data-type="color" data-color="rgb(39, 45, 51)"></div><div  data-type="image" data-fit="cover" data-position="center center" data-repeat="no-repeat" data-src="https://ld-wp.template-help.com/wordpress_58528/wp-content/uploads/2016/02/slide03.jpg"></div>                    </div>
+                    <div class="layers">
+                                                                                            <div class="layer"  data-type="html" data-align-horizontal="center" data-align-vertical="middle" data-offset-x="0" data-offset-y="-71" data-animation="fadeInRight" data-timing-function="ease" data-duration="500" data-leave-animation="fadeOutLeft" data-leave-timing-function="ease" data-leave-duration="500" data-delay="100" data-class="title1 mpsl-layer mpsl-private-preset-8">Fast and safe</div>
+                                                                                                    <div class="layer"  data-type="html" data-align-horizontal="center" data-align-vertical="middle" data-offset-x="0" data-offset-y="20" data-animation="fadeInRight" data-timing-function="ease" data-duration="500" data-leave-animation="fadeOutLeft" data-leave-timing-function="ease" data-leave-duration="500" data-delay="150" data-class="title2 mpsl-layer mpsl-private-preset-9">relocation of any</div>
+                                                                                                    <div class="layer"  data-type="html" data-align-horizontal="center" data-align-vertical="middle" data-offset-x="0" data-offset-y="88" data-animation="fadeInRight" data-timing-function="ease" data-duration="500" data-leave-animation="fadeOutLeft" data-leave-timing-function="ease" data-leave-duration="400" data-delay="200" data-class="title2 mpsl-layer mpsl-private-preset-10">vehicle type</div>
+                                                    </div>
+                </div>
+                    </div>
+    </div>
+</div>
+    <p class="motopress-hide-script mpsl-hide-script">
+        <script type="text/javascript" id='mpsl-slider-fonts-load-motoslider_wrapper5a402f46f3640'>
+            var font = document.createElement('link');
+            font.rel = 'stylesheet';
+            font.type = 'text/css';
+            font.className = 'mpsl-fonts-link';
+            font.href = '//fonts.googleapis.com/css?family=Raleway%3A900%2C500';
+            document.getElementsByTagName('head')[0].appendChild(font);
+        </script>
+    </p>
+<p class="motopress-hide-script mpsl-hide-script">
+    <script type="text/javascript" id='mpsl-fix-height-motoslider_wrapper5a402f46f3640'>
+        var aspect = 0.4957264957265;
+        var sliderWrapper = document.getElementById('motoslider_wrapper5a402f46f3640');
+        var outerWidth = sliderWrapper.offsetWidth;
+        var curHeight = outerWidth * aspect;
+        sliderWrapper.querySelector('[data-motoslider]').height = curHeight + 'px';
+    </script>
+</p></div></div></div></div>
+        </header>
+<div id="content" class="site-content wide">
+    <div class="container-fluid">
+
+        <div id="primary" class="content-area"><main id="main" class="site-main" role="main"><article class="clearfix post-5 page type-page status-publish hentry" id="post-5">
+
+
+<div class="entry-meta entry-meta-top">
+    
+    
+    
+</div>
+
+<div class="entry-content"><div class="row  " ><div class="container"><div class="row row-edge">
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<div class="cherry-banner template-banner_1 banner-home-1 box-shadow bg-primary "><a href="https://ld-wp.template-help.com/wordpress_58528/portfolio-archive/auto-towing/" class="cherry-banner_link">
+    <div class="cherry-banner_wrap" style="background-image: url(); background-color:; color:#ffffff">
+        <h2 class="cherry-banner_title" style="color:#ffffff;"></h2>
+        <div class="cherry-banner_content">
+<h2 class="banner_title color-white">AUTO <strong>TOWING</strong></h2>
+<p>Receive professional service from our professional company and employees. No matter if you are in a personal, commercial, or industrial vehicle, we offer towing services and emergency roadside assistance 24 hours a day and 7 days a week, with your safety guaranteed.</p>
+</div>
+    </div>
+</a></div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<div class="cherry-banner template-default banner-home-2 box-shadow bg-secondary "><a href="https://ld-wp.template-help.com/wordpress_58528/portfolio-archive/auto-repair/" class="cherry-banner_link">
+    <div class="cherry-banner_wrap" style="background-image: url(); background-color:; color:#ffffff">
+        <h2 class="cherry-banner_title" style="color:#ffffff;"></h2>
+        <div class="cherry-banner_content">
+<h2 class="banner_title color-white">AUTO <strong>REPAIR</strong></h2>
+<p>Let us provide you with a variety of automotive services, all offered at reasonable rates. For your convenience, we are a AAA-preferred service provider, and we operate a full-service, on-site auto repair center to serve all your automotive needs.</p>
+</div>
+    </div>
+</a></div>
+</div>
+</div></div></div>
+<div class="row  " ><div class="container"><div class="row row-edge">
+<div class="col-md-12 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<div class="row row-edge  " >
+<div class="col-md-12 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<div class="cherry-spacer   hidden-xs hidden-sm" style="height:52px;"></div><div class="cherry-spacer   visible-sm-block" style="height:52px;"></div><div class="cherry-spacer   visible-xs-block" style="height:52px;"></div>
+</div>
+</div>
+<div class="row row-edge  " >
+<div class="col-md-12 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<div class="motopress-text-obj motopress-margin-bottom-0">
+<h2 style="text-align: center;"><span style="color: #fc5a0a;">Safe delivery of</span></h2>
+</div>
+</div>
+</div>
+<div class="row row-edge  " >
+<div class="col-md-12 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<div class="motopress-text-obj motopress-margin-bottom-15 light">
+<h2 style="text-align: center;">your vehicle is guaranteed!</h2>
+</div>
+</div>
+</div>
+<div class="row row-edge  " >
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<div class="motopress-text-obj">
+<p>Our company is dedicated to the goal of providing expert car towing and roadside assistance services at affordable prices to build lasting customer relationships for years to come. We work tirelessly to exceed expectations on each call and we guarantee we will work to beat yours too. Our team has over 25 years of experience in towing and roadside services and is committed to providing you the best towing experience possible. We reinvented the car rental process to deliver you top-grade customer experience at low prices. Our commitment to price transparency is beyond comparison. You will get exactly what you want, without overpaying a single penny.</p>
+</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<div class="motopress-text-obj">
+<p>We receive our wares directly from the manufacturers, so we can offer you<br />
+the lowest prices on the automotive market. Our production chain is equipped with modern emission counters and brand new filters. Last year we managed halve the carbon monoxide emission, so be sure that buying from us you are not harming the environment.</p>
+</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<a class="cherry-btn cherry-btn-primary cherry-btn-medium cherry-btn-inline cherry-btn-fade offset-1 " target="_self" href="https://ld-wp.template-help.com/wordpress_58528/news/">Read more</a>
+</div>
+</div>
+<div class="row row-edge  " >
+<div class="col-md-12 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<div class="cherry-spacer   hidden-xs hidden-sm" style="height:41px;"></div><div class="cherry-spacer   visible-sm-block" style="height:41px;"></div><div class="cherry-spacer   visible-xs-block" style="height:41px;"></div>
+</div>
+</div>
+</div>
+</div></div></div>
+<div class="row bg-secondary " ><section class="parallax-box video-parallax-box " ><div class="parallax-content"><div class="container-fluid"><div class="row row-edge">
+<div class="col-md-12 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<div class="row row-edge  " >
+<div class="col-md-12 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<div class="cherry-spacer   hidden-xs hidden-sm" style="height:174px;"></div><div class="cherry-spacer   visible-sm-block" style="height:120px;"></div><div class="cherry-spacer   visible-xs-block" style="height:100px;"></div>
+</div>
+</div>
+<div class="row  " ><div class="container"><div class="row row-edge">
+<div class="col-md-12 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<div class="motopress-text-obj motopress-margin-bottom-0">
+<h1 style="text-align: center;"><span style="color: #ffffff;">Get emergency</span></h1>
+</div>
+</div>
+</div></div></div>
+<div class="row row-edge  " >
+<div class="col-md-12 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<div class="cherry-spacer   hidden-xs hidden-sm" style="height:18px;"></div><div class="cherry-spacer   visible-sm-block" style="height:18px;"></div><div class="cherry-spacer   visible-xs-block" style="height:18px;"></div>
+</div>
+</div>
+<div class="row  " ><div class="container"><div class="row row-edge">
+<div class="col-md-12 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<div class="motopress-text-obj motopress-margin-bottom-10 light">
+<h2 style="text-align: center;"><span style="color: #ffffff;">towing service when</span></h2>
+<h2 style="text-align: center;"><span style="color: #ffffff;">you need it most</span></h2>
+</div>
+</div>
+</div></div></div>
+<div class="row row-edge  " >
+<div class="col-md-12 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<div class="cherry-spacer   hidden-xs hidden-sm" style="height:164px;"></div><div class="cherry-spacer   visible-sm-block" style="height:120px;"></div><div class="cherry-spacer   visible-xs-block" style="height:100px;"></div>
+</div>
+</div>
+</div>
+</div></div><div class="clear"></div></div><div class="parallax-bg" data-parallax-type="video" data-img-url="https://ld-wp.template-help.com/wordpress_58528/wp-content/uploads/2016/02/parallax-video-bg.jpg" data-speed="1" data-invert="" ><video class="parallax_media parallax-bg-inner" poster="https://ld-wp.template-help.com/wordpress_58528/wp-content/uploads/2016/02/parallax-video-bg.jpg" loop><source src="https://ld-wp.template-help.com/wordpress_58528/wp-content/uploads/2016/02/video-bg.mp4" type="video/mp4"><source src="https://ld-wp.template-help.com/wordpress_58528/wp-content/uploads/2016/02/video-bg.webm" type="video/webm"><source src="https://ld-wp.template-help.com/wordpress_58528/wp-content/uploads/2016/02/video-bg.ogv" type="video/ogg"></video></div></section></div>
+<div class="row  " ></div>
+<div class="row row-edge  " >
+<div class="col-md-12 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<div class="row row-edge  " >
+<div class="col-md-12 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<div class="cherry-spacer   hidden-xs hidden-sm" style="height:61px;"></div><div class="cherry-spacer   visible-sm-block" style="height:61px;"></div><div class="cherry-spacer   visible-xs-block" style="height:61px;"></div>
+</div>
+</div>
+<div class="row  " ><div class="container"><div class="row row-edge">
+<div class="col-md-12 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<div class="motopress-text-obj motopress-margin-bottom-0 light">
+<h2 style="text-align: center;"><strong>Our</strong> Services</h2>
+</div>
+</div>
+</div></div></div>
+<div class="row row-edge  " >
+<div class="col-md-12 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<div class="cherry-spacer   hidden-xs hidden-sm" style="height:24px;"></div><div class="cherry-spacer   visible-sm-block" style="height:24px;"></div><div class="cherry-spacer   visible-xs-block" style="height:24px;"></div>
+</div>
+</div>
+<div class="row  " ><div class="container"><div class="row row-edge">
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<div class="cherry-list font-icon cherry-list_7426   ">
+<ul class="default-lists">
+<li><span class="fa fa-angle-right list-icon icon-190"></span><a href="#">Delivery of Quick Fix Parts </a></li>
+<li><span class="fa fa-angle-right list-icon icon-190"></span><a href="#">Tire Changes </a></li>
+<li><span class="fa fa-angle-right list-icon icon-190"></span><a href="#">Fleet Towing Services </a></li>
+<li><span class="fa fa-angle-right list-icon icon-190"></span><a href="#">Abandoned Vehicle Removal </a></li>
+<li><span class="fa fa-angle-right list-icon icon-190"></span><a href="#">Gas Delivery</a></li>
+<li><span class="fa fa-angle-right list-icon icon-190"></span><a href="#">Emergency Towing</a></li>
+</ul>
+</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<div class="cherry-list font-icon cherry-list_8318   ">
+<ul class="default-lists">
+<li><span class="fa fa-angle-right list-icon icon-809"></span><a href="#">Auto Impound &amp; Storage</a></li>
+<li><span class="fa fa-angle-right list-icon icon-809"></span><a href="#">Lock Outs </a></li>
+<li><span class="fa fa-angle-right list-icon icon-809"></span><a href="#">Trailer Towing </a></li>
+<li><span class="fa fa-angle-right list-icon icon-809"></span><a href="#">Motorcycle Towing</a></li>
+<li><span class="fa fa-angle-right list-icon icon-809"></span><a href="#">Roadside Service</a></li>
+<li><span class="fa fa-angle-right list-icon icon-809"></span><a href="#">Vehicle Removal</a></li>
+</ul>
+</div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<div class="motopress-image-obj motopress-text-align-center motopress-margin-top-20"><img src="https://ld-wp.template-help.com/wordpress_58528/wp-content/uploads/2016/02/img01.jpg" title="img01" alt="img01" class="motopress-image-obj-basic" /></div>
+</div>
+</div></div></div>
+</div>
+</div>
+<div class="row row-edge  " >
+<div class="col-md-12 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<div class="cherry-spacer   hidden-xs hidden-sm" style="height:35px;"></div><div class="cherry-spacer   visible-sm-block" style="height:35px;"></div><div class="cherry-spacer   visible-xs-block" style="height:35px;"></div>
+</div>
+</div>
+<div class="row  " ><section class="parallax-box image-parallax-box " style="min-height: 300px"><div class="parallax-content"><div class="container-fluid"><div class="row row-edge">
+<div class="col-md-12 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<div class="row row-edge  " >
+<div class="col-md-12 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<div class="cherry-spacer   hidden-xs hidden-sm" style="height:174px;"></div><div class="cherry-spacer   visible-sm-block" style="height:120px;"></div><div class="cherry-spacer   visible-xs-block" style="height:100px;"></div>
+</div>
+</div>
+<div class="row  " ><div class="container"><div class="row row-edge">
+<div class="col-md-12 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<div class="motopress-text-obj motopress-margin-bottom-0">
+<h1 style="text-align: center;"><span style="color: #ffffff;">The most cost</span></h1>
+</div>
+</div>
+</div></div></div>
+<div class="row row-edge  " >
+<div class="col-md-12 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<div class="cherry-spacer   hidden-xs hidden-sm" style="height:18px;"></div><div class="cherry-spacer   visible-sm-block" style="height:18px;"></div><div class="cherry-spacer   visible-xs-block" style="height:18px;"></div>
+</div>
+</div>
+<div class="row  " ><div class="container"><div class="row row-edge">
+<div class="col-md-12 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<div class="motopress-text-obj motopress-margin-bottom-10 light">
+<h2 style="text-align: center;"><span style="color: #ffffff;">effective flatbed</span><br />
+<span style="color: #ffffff;">transportation</span></h2>
+</div>
+</div>
+</div></div></div>
+<div class="row row-edge  " >
+<div class="col-md-12 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<div class="cherry-spacer   hidden-xs hidden-sm" style="height:164px;"></div><div class="cherry-spacer   visible-sm-block" style="height:164px;"></div><div class="cherry-spacer   visible-xs-block" style="height:164px;"></div>
+</div>
+</div>
+</div>
+</div></div><div class="clear"></div></div><div class="parallax-bg" data-parallax-type="image" data-img-url="https://ld-wp.template-help.com/wordpress_58528/wp-content/uploads/2016/02/parallax01.jpg" data-speed="2" data-invert="" ></div></section></div>
+<div class="row  " ><div class="cherry-box   box-482"><div class="inner"><div class="container-fluid"><div class="row row-edge">
+<div class="col-md-12 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<div class="row row-edge  " >
+<div class="col-md-12 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<div class="cherry-spacer   hidden-xs hidden-sm" style="height:24px;"></div><div class="cherry-spacer   visible-sm-block" style="height:24px;"></div><div class="cherry-spacer   visible-xs-block" style="height:24px;"></div>
+</div>
+</div>
+<div class="row row-edge  " >
+<div class="col-md-12 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<div class="motopress-text-obj motopress-margin-bottom-0">
+<h2 style="text-align: center;"><span style="color: #ffffff;">testimonials</span></h2>
+</div>
+</div>
+</div>
+<div class="row row-edge  " >
+<div class="col-md-12 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<div class="cherry-spacer   hidden-xs hidden-sm" style="height:31px;"></div><div class="cherry-spacer   visible-sm-block" style="height:31px;"></div><div class="cherry-spacer   visible-xs-block" style="height:31px;"></div>
+</div>
+</div>
+<div class="row  " ><div class="container"><div class="row row-edge">
+<div class="col-md-12 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<div class="testimonials-wrap template-testimonials_1"><div class="testimonials-list"><div id="quote-110" class="testimonials-item item-1 odd clearfix"><div class="testimonials-item-wrap"><img width="107" height="107" src="https://ld-wp.template-help.com/wordpress_58528/wp-content/uploads/2016/02/img02.jpg" class="avatar wp-post-image" alt="img02" /><blockquote><footer><cite class="author" title="Mark Johnson">Mark Johnson</cite></footer> <div class="rating-wrap"><div class="rating"><div class="stars five"></div></div></div> <p>We have used Auto Towing for years to tow unauthorized vehicles out of our apartment community. They are always professional. They understand our needs and strict requirements, which help tremendously when dealing with difficult situations. I would recommend them to others.</p>
+ </blockquote></div></div><div id="quote-108" class="testimonials-item item-2 even clearfix"><div class="testimonials-item-wrap"><img width="107" height="107" src="https://ld-wp.template-help.com/wordpress_58528/wp-content/uploads/2016/02/img03.jpg" class="avatar wp-post-image" alt="img03" /><blockquote><footer><cite class="author" title="Alan Smith">Alan Smith</cite></footer> <div class="rating-wrap"><div class="rating"><div class="stars four"></div></div></div> <p>I was very impressed with how fast the drivers helped me<br />
+with my flat tire late at night even with all the complications due to the blown tire. They were kind and very helpful and Chris worked with me and got my car done quick. Thanks just really seems like it&#8217;s not enough.</p>
+ </blockquote></div></div></div></div>
+</div>
+</div></div></div>
+<div class="row row-edge  " >
+<div class="col-md-12 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-xs-pull-0 col-sm-pull-0 col-md-pull-0 col-lg-pull-0 col-xs-push-0 col-sm-push-0 col-md-push-0 col-lg-push-0">
+<div class="cherry-spacer   hidden-xs hidden-sm" style="height:71px;"></div><div class="cherry-spacer   visible-sm-block" style="height:71px;"></div><div class="cherry-spacer   visible-xs-block" style="height:71px;"></div>
+</div>
+</div>
+</div>
+</div></div></div></div></div>
+</div>
+</article></main></div>
+                
+    </div>
+</div>
+
+<footer id="footer" class="site-footer wide" role="contentinfo"><div id="static-area-footer-top" class="footer-top static-area"><div class="container"><div class="row"><div class="col-xs-12 col-sm-6 col-md-2 col-lg-2 static-footer-sidebars"><div class="sidebar-footer widget-area" role="complementary"><aside id="nav_menu-2" class="widget widget_nav_menu"><h3 class="widget-title">Navigation</h3><div class="menu-footer-navigation-container"><ul id="menu-footer-navigation" class="menu"><li id="menu-item-990" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5 current_page_item menu-item-990"><a href="https://ld-wp.template-help.com/wordpress_58528/">Home</a></li>
+<li id="menu-item-993" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-993"><a href="https://ld-wp.template-help.com/wordpress_58528/about/">About</a></li>
+<li id="menu-item-992" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-992"><a href="https://ld-wp.template-help.com/wordpress_58528/services/">Services</a></li>
+<li id="menu-item-989" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-989"><a href="https://ld-wp.template-help.com/wordpress_58528/news/">News</a></li>
+<li id="menu-item-991" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-991"><a href="https://ld-wp.template-help.com/wordpress_58528/contacts/">Contacts</a></li>
+</ul></div></aside></div></div><div class="col-xs-12 col-sm-6 col-md-2 col-lg-2 static-footer-sidebars-1"><div class="sidebar-footer-1 widget-area" role="complementary"><aside id="cherry-shortcodes-4" class="widget cherry-shortcodes"><h3 class="widget-title">For members</h3><div class="textwidget"><div class="cherry-list image-icon cherry-list_7323   "><ul>
+<li><a href="#">Forums</a></li>
+<li><a href="#">Promotions</a></li>
+<li><a href="#">Sign In</a></li>
+<li><a href="#">News</a></li>
+</ul><style>.cherry-list_7323 ul li:before {background-image: url(); }</style></div></div></aside></div></div><div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 static-footer-sidebars-2"><div class="sidebar-footer-2 widget-area" role="complementary"><aside id="text-3" class="widget widget_text"><h3 class="widget-title">Contacts</h3>            <div class="textwidget"><div class="contact-info"><p class="fa-home"><a href="#">4578 Marmora Road,Glasgow  D04 89GR</a></p>
+<p class="fa-mobile-phone"><a href="callto:#">800-2345-6789</a></p>
+<p class="fa-envelope"><a href="/cdn-cgi/l/email-protection#7b58"><span class="__cf_email__" data-cfemail="e980878f86a98d8c848685808782c7869b8e">[email&#160;protected]</span></a></p></div></div>
+        </aside><aside id="cherry-social-follow-3" class="widget cherry-social-follow-class"><div id='cherry-follow-items-1' class='cherry-follow_wrap '><ul class='cherry-follow_list clearfix'><li class="cherry-follow_item facebook-item"><a class="cherry-follow_link" href="https://www.facebook.com/cherry.framework" target="_blank" rel="nofollow" title="Facebook"><i class='flaticon-facebook'></i><span class="cherry-follow_label">Facebook</span></a></li><li class="cherry-follow_item twitter-item"><a class="cherry-follow_link" href="https://twitter.com/CherryFramework" target="_blank" rel="nofollow" title="Twitter"><i class='flaticon-twitter'></i><span class="cherry-follow_label">Twitter</span></a></li><li class="cherry-follow_item google-item"><a class="cherry-follow_link" href="https://plus.google.com/u/0/110473764189007055556/posts" target="_blank" rel="nofollow" title="Google+"><i class='flaticon-googleplus'></i><span class="cherry-follow_label">Google+</span></a></li><li class="cherry-follow_item youtube-item"><a class="cherry-follow_link" href="#" target="_blank" rel="nofollow" title="YouTube"><i class='fa-youtube'></i><span class="cherry-follow_label">YouTube</span></a></li></ul></div></aside></div></div><div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 static-footer-sidebars-3"><div class="sidebar-footer-3 widget-area" role="complementary"><aside id="cherry-facebook-like-box-3" class="widget cherry-facebook-like-box-class">
+<div id="fb-root"></div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/af2821b0/cloudflare-static/email-decode.min.js"></script><script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="fb-page"
+    data-href="https://www.facebook.com/TemplateMonster/?pnref=lhc"
+    data-height="290"
+    data-hide-cover="0"
+    data-small-header="1"
+    data-show-facepile="0"
+    data-show-posts="1"
+    data-adapt-container-width="true">
+</div></aside><aside id="cherry-shortcodes-8" class="widget cherry-shortcodes"><div class="textwidget"></div></aside></div></div></div></div></div><div id="static-area-footer-middle" class="footer-middle static-area"><div class="container-fluid"><div class="row"><div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 static-footer-sidebars-4"><div class="sidebar-footer-4 widget-area" role="complementary"><aside id="cherry-shortcodes-5" class="widget cherry-shortcodes"><div class="textwidget"><div class="google-map-container " style="height:350px;" data-map-id="google-map-1334826256" data-lat-value="40.7127753" data-lng-value="-74.0059728" data-zoom-value="16" data-scroll-wheel="" data-pan-control="1" data-zoom-control="1" data-map-draggable="1" data-map-marker='["http:\/\/ld-wp.template-help.com\/wordpress_58528\/wp-content\/uploads\/2016\/02\/gmap_marker_theme25923.png",26,38,false]' data-map-style='[{"stylers":[{"hue":"#ff1a00"},{"invert_lightness":true},{"saturation":-100},{"lightness":33},{"gamma":0.5}]},{"featureType":"water","elementType":"geometry","stylers":[{"color":"#2D333C"}]}]'><div id="google-map-1334826256" class="google-map"></div><div class="marker-desc"><p>9870 St Vincent Place, Glasgow, DC 45 Fr 45</p></div></div>
+</div></aside><aside id="text-4" class="widget widget_text">            <div class="textwidget"></div>
+        </aside></div></div></div></div></div><div id="static-area-footer-bottom" class="footer-bottom static-area"><div class="container"><div class="row"><div class="col-xs-12 col-sm-4 col-md-4 col-lg-2 static-footer-logo"><div class="cherry-footer-logo image-logo"><a href="https://ld-wp.template-help.com/wordpress_58528/" rel="home"><img src="f-logo.png" alt="Auto Towing"></a></div></div><div class="col-xs-12 col-sm-4 col-md-4 col-lg-2 static-footer-info"><div class="site-info">&copy; 2017 | <a href="https://ld-wp.template-help.com/wordpress_58528/privacy-policy/">Privacy Policy</a></div></div></div></div></div></footer><div id="back-top" class=""><a href="#top"></a></div>
+    </div><!--site-wrapper-->
+
+
+<style type="text/css">.icon-190{}.icon-809{}.box-482 .inner{background-color:#fc5a0a;}</style><link rel='stylesheet' id='mpsl-core-css'  href='https://ld-wp.template-help.com/wordpress_58528/wp-content/plugins/motopress-slider/motoslider_core/styles/motoslider.css?ver=1.1.8' type='text/css' media='all' />
+<link rel='stylesheet' id='mpsl-object-style-css'  href='https://ld-wp.template-help.com/wordpress_58528/wp-content/plugins/motopress-slider/css/theme.css?ver=1.2.3' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wp_load_style = {"0":"cherry-blog-style.css","1":"cherry-portfolio.css","2":"cherry-social.css","3":"cherry-testimonials.css","4":"contact-form-7.css","5":"font-awesome.css","6":"swiper.css","7":"magnific-popup.css","8":"cherry-shortcodes-all.css","9":"theme58528-grid-base.css","10":"theme58528-grid-responsive.css","11":"slick.css","13":"theme58528-main.css","14":"theme58528-main-responsive.css","15":"cherryframework4-add-ons.css","16":"theme58528-style.css","17":"cherry-google-fonts.css","18":"cherry-mega-menu.css","19":"cherry-team.css","20":"mpce-theme.css"};
+var wp_load_script = ["cherry-api.js","comment-reply.js","magnific-popup.js","cherry-script.js","cherry-stick-up.js","cherry-mega-menu.js","theme58528-script.js"];
+var cherry_ajax = "6f9fb24e64";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ld-wp.template-help.com/wordpress_58528/wp-content/themes/cherryframework4/lib/assets/js/cherry-api.min.js?ver=4.0.5.1'></script>
+<script type='text/javascript' src='https://ld-wp.template-help.com/wordpress_58528/wp-includes/js/comment-reply.min.js?ver=4.4.13'></script>
+<script type='text/javascript' src='https://ld-wp.template-help.com/wordpress_58528/wp-content/themes/cherryframework4/lib/assets/js/jquery.magnific-popup.min.js?ver=1.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cherry_data = {"use_lightbox":"1"};
+var sticky_data = {"selector":"#menu-primary","args":{"correctionSelector":"#wpadminbar","listenSelector":".listenSelector","pseudo":true,"active":true}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ld-wp.template-help.com/wordpress_58528/wp-content/themes/cherryframework4/lib/assets/js/script.min.js?ver=4.0.5.1'></script>
+<script type='text/javascript' src='https://ld-wp.template-help.com/wordpress_58528/wp-content/themes/cherryframework4/lib/assets/js/jquery.cherry.stickup.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://ld-wp.template-help.com/wordpress_58528/wp-includes/js/hoverIntent.min.js?ver=1.8.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cherry_mega_menu_data = {"duration":"300"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ld-wp.template-help.com/wordpress_58528/wp-content/plugins/cherry-mega-menu/public/assets/js/min/script.min.js?ver=1.0.4'></script>
+<script type='text/javascript' src='https://ld-wp.template-help.com/wordpress_58528/wp-content/themes/theme58528/assets/js/script.js?ver=1.0'></script>
+<script type='text/javascript' src='https://ld-wp.template-help.com/wordpress_58528/wp-includes/js/wp-embed.min.js?ver=4.4.13'></script>
+<script type='text/javascript' src='https://ld-wp.template-help.com/wordpress_58528/wp-content/plugins/motopress-slider/motoslider_core/scripts/vendor.js?ver=1.1.8'></script>
+<script type='text/javascript' src='https://ld-wp.template-help.com/wordpress_58528/wp-content/plugins/motopress-slider/motoslider_core/scripts/motoslider.js?ver=1.1.8'></script>
+<script type='text/javascript' src='https://ld-wp.template-help.com/wordpress_58528/wp-content/plugins/cherry-shortcodes/assets/js/shotcodes/device.min.js?ver=1.0.7.1'></script>
+<script type='text/javascript' src='https://ld-wp.template-help.com/wordpress_58528/wp-content/plugins/cherry-shortcodes/assets/js/shotcodes/parallax.min.js?ver=1.0.7.1'></script>
+<script type='text/javascript' src='//maps.googleapis.com/maps/api/js?v=3.exp&#038;signed_in=false&#038;ver=4.4.13'></script>
+<script type='text/javascript' src='https://ld-wp.template-help.com/wordpress_58528/wp-content/plugins/cherry-shortcodes/assets/js/shotcodes/google-map.min.js?ver=1.0.7.1'></script>
+<script type='text/javascript' src='https://ld-wp.template-help.com/wordpress_58528/wp-content/plugins/cherry-shortcodes/assets/js/shotcodes/init.min.js?ver=1.0.7.1'></script>
+</body><!-- Google Tag Manager --><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P9FT69"height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-P9FT69');</script><!-- End Google Tag Manager -->
+</html>
