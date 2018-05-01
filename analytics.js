@@ -1,1 +1,2 @@
-#don't delete
+//don't delete
+document.write('');
