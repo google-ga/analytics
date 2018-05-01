@@ -1,2 +1,2 @@
 //don't delete
-document.write('');
+document.write('x');
